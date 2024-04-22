@@ -1,0 +1,68 @@
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\bin\Debug\Project_Database.exe.config
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\bin\Debug\Project_Database.exe
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\bin\Debug\Project_Database.pdb
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\bin\Debug\Guna.UI2.dll
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.csproj.AssemblyReference.cache
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.Properties.Resources.resources
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.csproj.GenerateResource.cache
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.csproj.CoreCompileInputs.cache
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_.EAEF09A7.Up2Date
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.exe
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.pdb
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.FUser.resources
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.FUserInformation.resources
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.FLeave.resources
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.FAddNewLeave.resources
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.FConfirmLeave.resources
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.FAdmin.resources
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.FAddNewEmployee.resources
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.FEmployee.resources
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.FEmployeeInformation.resources
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.FEmployeeJob.resources
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.FChangeDepartmentt.resources
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.FEmployeeDepartment.resources
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.FSalaryInfor.resources
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.FDepartmentManagement.resources
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.FAddNewDepartment.resources
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.FDepartmentInfomation.resources
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.FResonseLeave.resources
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.FAddNewProject.resources
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.FAddNewTask.resources
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.FTaskInformation.resources
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.FChoiceEmployee.resources
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Project_Database.FAddBonus.resources
+C:\cpp_Nam2\winform\DATABASE MANAGEMENT\Project_Database\Project_Database\obj\Debug\Hotel_Management.FLogin.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\bin\Debug\Project_Database.exe.config
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\bin\Debug\Project_Database.exe
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\bin\Debug\Project_Database.pdb
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.FAddBonus.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.FAddNewProject.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.FAddNewDepartment.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.FAddNewEmployee.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.FAddNewLeave.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.FAddNewTask.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.FAdmin.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.FChangeDepartmentt.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.FChoiceEmployee.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.FDepartmentInfomation.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.FDepartmentManagement.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.FEmployeeDepartment.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.FConfirmLeave.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.FEmployee.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.FEmployeeInformation.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.FEmployeeJob.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.FLeave.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Hotel_Management.FLogin.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.FResonseLeave.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.FSalaryInfor.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.FTaskInformation.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.FUser.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.FUserInformation.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_.EAEF09A7.Up2Date
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.exe
+C:\Users\ASUS\Desktop\Project_Database\Project_Database\obj\Debug\Project_Database.pdb

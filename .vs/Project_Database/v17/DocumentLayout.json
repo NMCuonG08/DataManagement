@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Project_Database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41EBC9E4-D588-4FCD-B44C-35D4D106B247}|Project_Database\\Project_Database.csproj|c:\\users\\asus\\desktop\\project_database\\project_database\\femployeejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41EBC9E4-D588-4FCD-B44C-35D4D106B247}|Project_Database\\Project_Database.csproj|solutionrelative:project_database\\femployeejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EBC9E4-D588-4FCD-B44C-35D4D106B247}|Project_Database\\Project_Database.csproj|C:\\Users\\ASUS\\Desktop\\Project_Database\\project_database\\fleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41EBC9E4-D588-4FCD-B44C-35D4D106B247}|Project_Database\\Project_Database.csproj|solutionrelative:project_database\\fleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EBC9E4-D588-4FCD-B44C-35D4D106B247}|Project_Database\\Project_Database.csproj|C:\\Users\\ASUS\\Desktop\\Project_Database\\project_database\\fleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41EBC9E4-D588-4FCD-B44C-35D4D106B247}|Project_Database\\Project_Database.csproj|solutionrelative:project_database\\fleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EBC9E4-D588-4FCD-B44C-35D4D106B247}|Project_Database\\Project_Database.csproj|C:\\Users\\ASUS\\Desktop\\Project_Database\\project_database\\femployeejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41EBC9E4-D588-4FCD-B44C-35D4D106B247}|Project_Database\\Project_Database.csproj|solutionrelative:project_database\\femployeejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EBC9E4-D588-4FCD-B44C-35D4D106B247}|Project_Database\\Project_Database.csproj|C:\\Users\\ASUS\\Desktop\\Project_Database\\project_database\\fuserinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41EBC9E4-D588-4FCD-B44C-35D4D106B247}|Project_Database\\Project_Database.csproj|solutionrelative:project_database\\fuserinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EBC9E4-D588-4FCD-B44C-35D4D106B247}|Project_Database\\Project_Database.csproj|C:\\Users\\ASUS\\Desktop\\Project_Database\\project_database\\fuserinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41EBC9E4-D588-4FCD-B44C-35D4D106B247}|Project_Database\\Project_Database.csproj|solutionrelative:project_database\\fuserinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FEmployeeJob.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Project_Database\\Project_Database\\FEmployeeJob.cs",
+              "RelativeDocumentMoniker": "Project_Database\\FEmployeeJob.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Project_Database\\Project_Database\\FEmployeeJob.cs",
+              "RelativeToolTip": "Project_Database\\FEmployeeJob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:50:08.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FEmployeeJob.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Project_Database\\Project_Database\\FEmployeeJob.cs",
+              "RelativeDocumentMoniker": "Project_Database\\FEmployeeJob.cs",
+              "ToolTip": "C:\\cpp_Nam2\\winform\\DATABASE MANAGEMENT\\Project_Database\\Project_Database\\FEmployeeJob.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\cpp_Nam2\\winform\\DATABASE MANAGEMENT\\Project_Database\\Project_Database\\FEmployeeJob.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:50:07.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FUserInformation.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Project_Database\\Project_Database\\FUserInformation.cs",
+              "RelativeDocumentMoniker": "Project_Database\\FUserInformation.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Project_Database\\Project_Database\\FUserInformation.cs",
+              "RelativeToolTip": "Project_Database\\FUserInformation.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:46:51.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FUserInformation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Project_Database\\Project_Database\\FUserInformation.cs",
+              "RelativeDocumentMoniker": "Project_Database\\FUserInformation.cs",
+              "ToolTip": "C:\\cpp_Nam2\\winform\\DATABASE MANAGEMENT\\Project_Database\\Project_Database\\FUserInformation.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\cpp_Nam2\\winform\\DATABASE MANAGEMENT\\Project_Database\\Project_Database\\FUserInformation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:46:50.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FLeave.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Project_Database\\Project_Database\\FLeave.cs",
+              "RelativeDocumentMoniker": "Project_Database\\FLeave.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Project_Database\\Project_Database\\FLeave.cs",
+              "RelativeToolTip": "Project_Database\\FLeave.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:45:17.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FLeave.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Project_Database\\Project_Database\\FLeave.cs",
+              "RelativeDocumentMoniker": "Project_Database\\FLeave.cs",
+              "ToolTip": "C:\\cpp_Nam2\\winform\\DATABASE MANAGEMENT\\Project_Database\\Project_Database\\FLeave.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\cpp_Nam2\\winform\\DATABASE MANAGEMENT\\Project_Database\\Project_Database\\FLeave.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:45:16.626Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
